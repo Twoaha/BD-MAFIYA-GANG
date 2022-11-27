@@ -22,9 +22,9 @@ pip install requests 😁
 
 pip install rich 🥲
 
-git clone https://github.com/Twoaha/BD-MAFIYA-GANG.git 😉
+git clone https://github.com/Twoaha/BD-MAFIYA-GANG.git
 
-cd BD-MAFIYA-GANG 🫣
+cd BD-MAFIYA-GANG 
 
-python Twoaha.py 🫥
+python Twoaha.py
 
